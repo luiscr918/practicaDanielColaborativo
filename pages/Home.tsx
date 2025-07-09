@@ -14,6 +14,15 @@ export const Home = () => {
     <p>hoklkjlkfdsjhfd</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim distinctio consequatur excepturi dolore iusto, assumenda tempora ipsam magnam dolorum, vero repudiandae nam eaque optio nemo eligendi exercitationem. Consequuntur, voluptatem?</p>
     <h1>master cambiada</h1>
+     <p>hoklkjlkfdsjhfd</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim distinctio consequatur excepturi dolore iusto, assumenda tempora ipsam magnam dolorum, vero repudiandae nam eaque optio nemo eligendi exercitationem. Consequuntur, voluptatem?</p>
+    <h1>master cambiada</h1>
+     <p>hoklkjlkfdsjhfd</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim distinctio consequatur excepturi dolore iusto, assumenda tempora ipsam magnam dolorum, vero repudiandae nam eaque optio nemo eligendi exercitationem. Consequuntur, voluptatem?</p>
+    <h1>master cambiada</h1>
+     <p>hoklkjlkfdsjhfd</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim distinctio consequatur excepturi dolore iusto, assumenda tempora ipsam magnam dolorum, vero repudiandae nam eaque optio nemo eligendi exercitationem. Consequuntur, voluptatem?</p>
+    <h1>master cambiada</h1>
     </>
   );
 };
