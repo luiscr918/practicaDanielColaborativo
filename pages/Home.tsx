@@ -10,6 +10,8 @@ export const Home = () => {
       <HeroSectionHome />
       <h1>NOMBRE</h1>
     <Saludo nombre="luis"/>
+    <p>estoy actualizando daniel esto va a generar conflictos</p>
+    <p>no te asustes</p>
     <Link to={'/carrusel'} >ir carrusel</Link>
     <h1>master cambiada</h1>
     <h2>master cambiada</h2>
