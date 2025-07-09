@@ -11,6 +11,8 @@ export const Home = () => {
       <h1>NOMBRE</h1>
     <Saludo nombre="luis"/>
     <Link to={'/carrusel'} >ir carrusel</Link>
+    <h1>master cambiada</h1>
+    <h2>master cambiada</h2>
     <p>hoklkjlkfdsjhfd</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim distinctio consequatur excepturi dolore iusto, assumenda tempora ipsam magnam dolorum, vero repudiandae nam eaque optio nemo eligendi exercitationem. Consequuntur, voluptatem?</p>
     <h1>master cambiada</h1>
