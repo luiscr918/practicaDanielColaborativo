@@ -8,7 +8,7 @@ export const Home = () => {
     <>
       <Navbar />
       <HeroSectionHome />
-      <h1>NOMBRE</h1>
+      <h1>NOMBRE:Luis</h1>
     <Saludo nombre="luis"/>
     <p>estoy actualizando daniel esto va a generar conflictos</p>
     <p>no te asustes</p>
